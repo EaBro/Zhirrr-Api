@@ -89,7 +89,7 @@
 
 
 ### Special Thanks
--Zahirrr(Makasih Atas Open Sourcenya Bang)
+-Zahir Hadi Athallah(Makasih Atas Open Sourcenya Bang)
 - ZefianAlfian (Makasih Templates Nya, Xixixixi)
 - sProDev (Makasih Kodepos Nya Mank)
 - devnazir (Credits : FilmApik, LK21)
