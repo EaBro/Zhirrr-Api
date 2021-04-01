@@ -87,26 +87,6 @@
 | Text Maker Flower | api/textmaker/alam?text=Zhirrr&theme=flower&apikey=MASUKIN_APIKEY |
 
 
-## Cara Ganti ApiKey Gimana?
-Cara Mengganti Nya Cukup Gampang, Kalian Hanya Perlu Untuk Mengganti Syntax Di Bawah Ini
-```js
-if(apikeyInput != 'api-bosrvan') return res.json(loghandler.invalidKey)
-```
-Atau
-
-```js
-if(apikey != 'api-bosrvan') return res.json(loghandler.invalidKey)
-```
-
-### Berikut Adalah Cara Deploy API Ini Ke Dalam Heroku
-<p align="center">
-<img src="https://raw.githubusercontent.com/Zhirrr/My-SQL-Results/main/tutor/heroku/Screenshot_2021-02-23-17-47-56-969_com.android.chrome.png"/>
-<img src="https://raw.githubusercontent.com/Zhirrr/My-SQL-Results/main/tutor/heroku/Screenshot_2021-02-23-17-48-56-435_com.android.chrome.png"/>
-<img src="https://raw.githubusercontent.com/Zhirrr/My-SQL-Results/main/tutor/heroku/Screenshot_2021-02-23-17-49-37-427_com.android.chrome.png"/>
-<img src="https://raw.githubusercontent.com/Zhirrr/My-SQL-Results/main/tutor/heroku/Screenshot_2021-02-23-17-51-08-627_com.android.chrome.png"/>
-<img src="https://raw.githubusercontent.com/Zhirrr/My-SQL-Results/main/tutor/heroku/Screenshot_2021-02-23-17-51-35-141_com.android.chrome.png"/>
-<img src="https://raw.githubusercontent.com/Zhirrr/My-SQL-Results/main/tutor/heroku/Screenshot_2021-02-23-17-52-12-691_com.android.chrome.png"/>
-</p>
 
 # Live API
 * https://zahirr-web.herokuapp.com
@@ -116,10 +96,6 @@ if(apikey != 'api-bosrvan') return res.json(loghandler.invalidKey)
 - Note : Jangan Memperjual Belikan API Ini, Jika anda ingin memakai nya dan meRename dengan nama kalian Tidak Masalah, karena ini adalah Project API Open Source
 - Untuk Melihat Update Silakan Ganti Branch Ke "update3"
 
-
-### Link Zhirrr API Packages
-
-https://www.npmjs.com/package/zahir-api
 
 ### Special Thanks
 - ZefianAlfian (Makasih Templates Nya, Xixixixi)
